@@ -20,6 +20,7 @@ namespace UnibitATProject.PageObjects
         public void GoToMainPage()
         {
             driver.Navigate().GoToUrl(Url);
+            driver.Manage().Window.Maximize();
         }
     }
 }

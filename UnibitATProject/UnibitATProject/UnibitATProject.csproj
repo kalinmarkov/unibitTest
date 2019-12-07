@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="PageObjects\MainPage.cs" />
+    <Compile Include="PageObjects\SignInPage.cs" />
     <Compile Include="TestDemo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
